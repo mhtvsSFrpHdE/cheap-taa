@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TAA</Name>
+  <Guid>fcf5a5f2-1b0b-4f89-b7f5-145a4ec73242</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>3</Type>
+      <MouseMovement>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>990</X>
+          <Y>529</Y>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>991</X>
+          <Y>530</Y>
+          <Delay>16</Delay>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>990</X>
+          <Y>529</Y>
+          <Delay>16</Delay>
+        </MouseMovementEvent>
+      </MouseMovement>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>
