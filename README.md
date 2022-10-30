@@ -1,6 +1,6 @@
 # cheap-taa
 
-ReShade TAA solution, far cheaper than the others.
+ReShade **motion** TAA solution, far cheaper than the others.
 
 [Video demo on YouTube](https://www.youtube.com/watch?v=vIg0JeLIjTc).
 
