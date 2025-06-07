@@ -2,6 +2,9 @@
 
 ReShade **motion** TAA solution, far cheaper than the others.
 
+Archived: FFXIV 7.0 introduced DLSS thus [OptiScaler](https://github.com/cdozdil/OptiScaler)(FSR 2) mod are available.  
+The quality and performance is far better than all ReShade solution.
+
 [Video demo on YouTube](https://www.youtube.com/watch?v=vIg0JeLIjTc).
 
 # How to use
